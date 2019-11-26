@@ -76,7 +76,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ctt/selenium/.idea/selenium.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ctt/selenium/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedReaderTest05.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1285,7 +1284,7 @@
       <workItem from="1574349489597" duration="4195000" />
       <workItem from="1574728051049" duration="3259000" />
       <workItem from="1574733380672" duration="170000" />
-      <workItem from="1574734284919" duration="2906000" />
+      <workItem from="1574734284919" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传">
       <created>1574735474237</created>
@@ -1301,7 +1300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574735531194</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次上传">
+      <created>1574744689700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574744689700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1322,7 +1328,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161036000" />
+    <option name="totallyTimeSpent" value="161178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1232" height="832" extended-state="0" />
