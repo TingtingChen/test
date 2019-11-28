@@ -1,0 +1,1887 @@
+2017-12-03 19:24:20,133 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:24:21,296 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.274 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.443 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.274/22.358/22.443/0.085 ms
+2017-12-03 19:24:21,303 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:24:21,303 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:24:21,551 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:24:21,557 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:24:21,557 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:24:21,558 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:24:21,559 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:24:21,560 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:24:21,561 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:24:21,564 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:24:21,565 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:24:21,567 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:24:21,568 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:24:21,575 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:24:21,578 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:26:03,094 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=37.092 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=63.593 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 37.092/50.343/63.593/13.251 ms
+2017-12-03 19:26:03,097 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:26:03,100 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:26:03,366 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:26:03,367 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:03,368 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:03,369 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:03,369 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:03,370 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:03,370 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:03,371 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:03,371 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:03,372 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:03,372 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:03,372 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:26:03,373 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:26:43,422 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=29.617 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=149.425 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 29.617/89.521/149.425/59.904 ms
+2017-12-03 19:26:43,424 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:26:43,427 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:26:43,570 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:26:43,573 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:43,574 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:43,575 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:43,575 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:43,576 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:43,576 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:43,577 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:43,578 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:43,581 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:26:43,581 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:26:43,583 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:26:43,585 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:27:20,123 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:27:21,287 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.757 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=141.383 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.757/82.070/141.383/59.313 ms
+2017-12-03 19:27:21,289 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:27:21,289 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:27:21,442 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:27:21,444 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:27:21,444 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:27:21,445 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:27:21,446 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:27:21,447 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:27:21,447 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:27:21,448 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:27:21,449 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:27:21,449 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:27:21,449 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:27:21,450 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:27:21,450 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:29:01,927 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:29:03,045 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=57.759 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=92.555 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 57.759/75.157/92.555/17.398 ms
+2017-12-03 19:29:03,046 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:29:03,046 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:29:03,312 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:29:03,314 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:03,314 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:03,315 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:03,316 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:03,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:03,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:03,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:03,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:03,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:31)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:03,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:33)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:03,322 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:29:03,322 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:29:18,904 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:29:20,065 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=26.398 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.857 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.857/24.627/26.398/1.770 ms
+2017-12-03 19:29:20,072 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:29:20,073 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:29:20,297 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:29:20,306 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:20,308 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:20,311 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:20,313 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:20,317 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:20,317 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:20,319 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:20,320 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:20,323 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:20,324 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:20,333 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:29:20,337 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:29:42,147 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:29:43,195 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.436 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.659 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.436/23.047/23.659/0.611 ms
+2017-12-03 19:29:43,197 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:29:43,197 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:29:43,341 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:29:43,343 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:43,343 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:43,344 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:43,345 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:43,346 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:43,346 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:43,346 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:43,347 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:43,347 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:29:43,347 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:29:43,348 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:29:43,348 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:30:20,117 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:30:21,176 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=26.494 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=33.811 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 26.494/30.152/33.811/3.659 ms
+2017-12-03 19:30:21,177 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:30:21,177 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:30:21,317 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:30:21,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:30:21,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:30:21,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:30:21,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:30:21,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:30:21,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:30:21,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:30:21,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:30:21,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:30:21,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:30:21,321 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:30:21,322 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:32:01,922 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:32:03,017 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.408 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=66.826 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.408/45.117/66.826/21.709 ms
+2017-12-03 19:32:03,018 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:32:03,018 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:32:03,219 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:32:03,220 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:03,221 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:03,221 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:03,222 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:03,223 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:03,224 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:03,225 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:03,225 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:03,226 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:03,226 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:03,227 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:32:03,227 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:32:18,896 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:32:20,013 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=97.063 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=94.319 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 94.319/95.691/97.063/1.372 ms
+2017-12-03 19:32:20,014 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:32:20,014 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:32:20,306 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:32:20,308 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:20,309 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:20,311 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:20,312 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:20,314 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:20,314 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:20,315 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:20,315 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:20,317 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:20,317 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:20,318 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:32:20,318 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:32:42,140 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:32:43,257 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=160.653 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=93.721 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 93.721/127.187/160.653/33.466 ms
+2017-12-03 19:32:43,258 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:32:43,258 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:32:43,604 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:32:43,605 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:43,606 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:43,607 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:43,607 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:43,608 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:43,608 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:43,608 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:43,609 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:43,609 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:32:43,609 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:32:43,610 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:32:43,610 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:33:20,110 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:33:21,167 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=27.027 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.300 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.300/24.663/27.027/2.364 ms
+2017-12-03 19:33:21,169 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:33:21,169 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:33:21,310 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:33:21,310 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:33:21,311 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:33:21,316 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:33:21,317 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:33:21,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:33:21,320 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:33:21,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:33:21,321 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:33:21,322 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:33:21,323 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:33:21,323 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:33:21,323 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:35:01,916 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:35:03,043 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=50.048 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=104.510 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 50.048/77.279/104.510/27.231 ms
+2017-12-03 19:35:03,044 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:35:03,044 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:35:03,216 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:35:03,218 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:03,218 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:03,219 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:03,219 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:03,220 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:03,220 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:03,220 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:03,221 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:03,221 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:03,221 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:03,222 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:35:03,222 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:35:18,888 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:35:19,926 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.437 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.635 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.635/23.036/23.437/0.401 ms
+2017-12-03 19:35:19,927 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:35:19,927 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:35:20,099 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:35:20,100 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:20,101 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:20,102 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:20,102 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:20,102 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:20,103 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:20,103 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:20,103 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:20,104 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:20,104 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:20,105 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:35:20,105 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:35:42,135 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:35:43,178 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.478 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.075 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.478/22.776/23.075/0.298 ms
+2017-12-03 19:35:43,178 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:35:43,178 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:35:43,325 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:35:43,325 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:43,326 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:43,326 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:43,326 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:43,327 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:43,327 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:43,327 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:43,327 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:43,328 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:35:43,328 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:35:43,328 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:35:43,328 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:36:20,105 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:36:21,150 INFO pool-1-thread-2 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.629 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=24.538 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.629/24.084/24.538/0.454 ms
+2017-12-03 19:36:21,151 INFO pool-1-thread-2 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:36:21,151 INFO pool-1-thread-2 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:36:21,315 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:36:21,316 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:36:21,316 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:36:21,317 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:36:21,317 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:36:21,317 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:36:21,317 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:36:21,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:36:21,318 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:36:21,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:34)Where is your mysql JDBC Driver? Include in your library path!
+2017-12-03 19:36:21,319 INFO pool-1-thread-2 [com.weather.test.USE]jxJson(line:36)java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.weather.jxJson.JX.jxJson(JX.java:24)
+	at com.weather.getJson.GET.getWeatherInform(GET.java:94)
+	at com.weather.test.USE$1.run(USE.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2017-12-03 19:36:21,320 INFO pool-1-thread-2 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:36:21,320 INFO pool-1-thread-2 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:38:10,119 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:38:11,341 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.693 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=135.487 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.693/79.090/135.487/56.397 ms
+2017-12-03 19:38:11,344 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:38:11,345 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:38:11,897 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:38:12,286 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:38:12,292 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:40:36,497 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:40:37,608 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.989 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.041 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.041/23.015/23.989/0.974 ms
+2017-12-03 19:40:37,610 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:40:37,611 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:40:37,820 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:40:37,831 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:40:38,128 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:42:35,528 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:42:36,629 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=147.656 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.835 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.835/85.246/147.656/62.411 ms
+2017-12-03 19:42:36,633 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:42:36,633 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:42:36,802 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:42:36,814 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:42:37,129 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:46:07,415 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:46:08,530 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.461 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=28.656 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.461/26.058/28.656/2.598 ms
+2017-12-03 19:46:08,533 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:46:08,533 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:46:08,789 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:46:08,805 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:46:09,144 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:46:35,410 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:46:36,546 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.795 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=56.166 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.795/39.980/56.166/16.186 ms
+2017-12-03 19:46:36,549 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:46:36,549 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:46:37,452 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:46:37,469 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:46:37,764 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:47:19,534 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:47:20,642 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=29.983 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.542 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.542/26.263/29.983/3.720 ms
+2017-12-03 19:47:20,647 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:47:20,647 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:47:20,877 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:47:20,902 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:47:21,231 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:67)You made it, take control your database now!
+2017-12-03 19:51:36,679 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:51:37,826 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.373 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.297 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.373/22.835/23.297/0.462 ms
+2017-12-03 19:51:37,830 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:51:37,830 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:51:38,006 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:51:38,027 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:51:38,388 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:66)You made it, take control your database now!
+2017-12-03 19:51:38,389 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:51:38,395 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:66)You made it, take control your database now!
+2017-12-03 19:51:38,395 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:51:38,399 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:66)You made it, take control your database now!
+2017-12-03 19:51:38,399 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:51:38,402 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:66)You made it, take control your database now!
+2017-12-03 19:51:38,403 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:51:38,407 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:66)You made it, take control your database now!
+2017-12-03 19:51:38,411 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:51:38,413 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:54:10,805 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:54:11,930 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.438 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=31.787 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.438/27.112/31.787/4.675 ms
+2017-12-03 19:54:11,934 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:54:11,934 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:54:12,323 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:54:12,338 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:54:36,669 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:54:37,708 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.354 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.519 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.519/22.936/23.354/0.417 ms
+2017-12-03 19:54:37,709 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:54:37,709 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:54:37,899 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:54:37,900 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:50,728 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:57:51,846 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.746 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=25.546 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.746/24.146/25.546/1.400 ms
+2017-12-03 19:57:51,850 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:57:51,851 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:57:52,082 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:57:52,100 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:52,467 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:57:52,468 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:52,477 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:57:52,477 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:52,487 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:57:52,487 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:52,492 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:57:52,492 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:57:52,498 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:57:52,505 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:109)zhuhai, The end!!!
+
+2017-12-03 19:57:52,507 INFO pool-1-thread-1 [com.weather.test.USE]run(line:67)===============================
+===      数据获取成功                  ======
+====                       ======
+
+2017-12-03 19:58:24,552 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:58:25,676 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.352 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.881 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.881/23.117/23.352/0.235 ms
+2017-12-03 19:58:25,680 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:58:25,680 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:58:25,852 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:58:25,862 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:58:26,191 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 19:59:23,217 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 19:59:24,332 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.433 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.540 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.433/23.486/23.540/0.054 ms
+2017-12-03 19:59:24,336 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 19:59:24,336 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 19:59:24,552 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 19:59:24,572 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 19:59:24,881 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:00:50,721 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:00:51,761 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=142.370 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.269 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.269/82.820/142.370/59.550 ms
+2017-12-03 20:00:51,762 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:00:51,762 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:00:51,946 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:00:51,947 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:00:51,954 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:01:30,899 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:01:31,998 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.253 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=24.799 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.253/24.026/24.799/0.773 ms
+2017-12-03 20:01:32,001 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:01:32,001 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:01:32,171 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:01:32,185 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:01:32,547 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:03:04,704 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:03:05,878 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.301 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=101.616 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.301/61.959/101.616/39.657 ms
+2017-12-03 20:03:05,883 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:03:05,883 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:03:06,343 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:03:06,357 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:03:06,677 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:03:51,693 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:03:52,787 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=52.999 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.047 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.047/38.023/52.999/14.976 ms
+2017-12-03 20:03:52,790 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:03:52,791 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:03:52,962 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:03:52,978 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:03:53,328 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:04:26,506 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:04:27,610 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.471 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=24.867 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.471/24.169/24.867/0.698 ms
+2017-12-03 20:04:27,613 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:04:27,614 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:04:27,868 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:04:27,878 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:04:28,163 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:04:50,835 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:04:52,042 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.142 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=137.146 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.142/80.144/137.146/57.002 ms
+2017-12-03 20:04:52,046 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:04:52,046 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:04:52,672 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:04:52,687 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:04:52,989 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:05:43,403 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:05:44,617 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.209 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=122.907 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.209/73.058/122.907/49.849 ms
+2017-12-03 20:05:44,621 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:05:44,621 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:05:44,989 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:05:45,000 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:05:45,304 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:07:32,786 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:07:33,886 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=26.493 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.858 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.858/24.675/26.493/1.817 ms
+2017-12-03 20:07:33,890 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:07:33,890 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:07:34,099 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:07:45,068 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:07:45,389 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:09:12,157 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:09:13,289 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=23.244 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.245 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 23.244/23.245/23.245/0.000 ms
+2017-12-03 20:09:13,292 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:09:13,293 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:09:13,514 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:09:16,593 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:09:16,923 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:10:20,365 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:10:21,496 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=37.239 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.046 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.046/29.642/37.239/7.596 ms
+2017-12-03 20:10:21,499 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:10:21,500 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:10:21,669 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:10:25,440 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:10:25,750 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:14:50,380 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:14:51,486 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.166 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=22.157 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.157/22.162/22.166/0.005 ms
+2017-12-03 20:14:51,490 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:14:51,490 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:14:51,714 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:15:13,260 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
+2017-12-03 20:15:13,633 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:51)You made it, take control your database now!
+2017-12-03 20:16:32,378 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:34)=== zhuhai start! ===
+2017-12-03 20:16:33,487 INFO pool-1-thread-1 [com.weather.test.USE]check(line:31)nullPING www.a.shifen.com (14.215.177.39): 56 data bytes64 bytes from 14.215.177.39: icmp_seq=0 ttl=55 time=22.908 ms64 bytes from 14.215.177.39: icmp_seq=1 ttl=55 time=23.357 ms--- www.a.shifen.com ping statistics ---2 packets transmitted, 2 packets received, 0.0% packet lossround-trip min/avg/max/stddev = 22.908/23.133/23.357/0.225 ms
+2017-12-03 20:16:33,490 INFO pool-1-thread-1 [com.weather.test.USE]check(line:35)===the internet working===
+2017-12-03 20:16:33,491 INFO pool-1-thread-1 [com.weather.test.USE]check(line:51)===finally===
+2017-12-03 20:16:33,803 INFO pool-1-thread-1 [com.weather.test.USE]getWeatherInform(line:63)connect success
+2017-12-03 20:16:35,725 INFO pool-1-thread-1 [com.weather.test.USE]jxJson(line:41)mysql JDBC Driver Registered!
