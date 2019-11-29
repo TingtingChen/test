@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="2babc42e-6849-4fd8-a076-e955c5eb04e6" name="Default" comment="" />
-=======
     <list default="true" id="2babc42e-6849-4fd8-a076-e955c5eb04e6" name="Default" comment="第一次上传">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AutoFrameworkTest/drivers/chromedriver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AutoFrameworkTest/.idea/codeStyleSettings.xml" />
@@ -78,9 +75,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ctt/selenium/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ctt/selenium/.idea/selenium.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ctt/selenium/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/CopyPictureDemo12.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -104,25 +101,12 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Test" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
-      <file leaf-file-name="FileReaderDemo11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileReaderDemo11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-=======
       <file leaf-file-name="ForDemo18.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ForDemo18.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,67 +114,36 @@
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="false" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="FileRreaderTest12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileRreaderTest12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
       <file leaf-file-name="ParamMethodDemo19.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ParamMethodDemo19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
               <folding />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="IOTest13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/IOTest13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="39" column="2" selection-start-line="9" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
       <file leaf-file-name="PropertyDemo01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/PropertyDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="103" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="BufferedWriterDemo01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedWriterDemo01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-=======
       <file leaf-file-name="BufferedReaderTest05.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedReaderTest05.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="521">
-              <caret line="52" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+              <caret line="52" column="1" selection-start-line="21" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -198,74 +151,50 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="BufferedTest03.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedTest03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding />
-=======
       <file leaf-file-name="MyReadLineNumberTest09.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/MyReadLineNumberTest09.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="42" column="4" selection-start-line="24" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+              <caret line="42" column="1" selection-start-line="24" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="demo.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="72" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-=======
-      <file leaf-file-name="InputStreamDemo11.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InputStreamDemo11.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/InputStreamDemo11.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="139">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
+      <file leaf-file-name="CopyPictureDemo12.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/CopyPictureDemo12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-=======
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/io/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="118" column="15" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="test2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="56" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-              <folding />
-=======
       <file leaf-file-name="ArraysDemo16.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ArraysDemo16.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -274,7 +203,6 @@
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </state>
           </provider>
         </entry>
@@ -284,44 +212,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-<<<<<<< HEAD
-        <option value="Singleton" />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-=======
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="TingtingChen &lt;314896442@qq.com&gt;" />
-      </list>
-    </option>
-    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
-    </option>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/Day14/ListIteratorTest05.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/Day14/LinkedListTest09.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/Day14/ArrayListTest10.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/Day14/ArrayListTest11.java" />
@@ -337,7 +237,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day16/MapDemo03.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day16/MapDemo04.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day15/TreeSetDemo04.java" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day16/EentrySetDemo05.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/leetcode/string/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/leetcode/string/ListNodeTest.java" />
@@ -363,42 +262,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/TEst.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/TestDemo.java" />
-<<<<<<< HEAD
-=======
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/DemoTest.java" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ToArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day16/TreeMapTest08.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day04/ArrayUtilDay4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ForDemo18.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ParamMethodDemo19.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/PropertyDemo01.java" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/main/java/com/leetCode/tencent/FindMedian.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leetCode/tencent/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leetCode/tencent/ReverseInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/DateDemo03.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/CalenderDemo04.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/DemoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/MathDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/MathDemo10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterDemo07.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterIOExc08.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterXuxie09.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileReaderDemo10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileRreaderTest12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileReaderDemo11.java" />
-        <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/IOTest13.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/BufferedWriter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day18/BufferedWriterDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedWriterDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedTest03.java" />
-=======
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedReaderTest05.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/MyReadLineNumberTest09.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/test/util/day19/InputStreamDemo11.java" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -411,56 +285,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
         <option name="mavenHome" value="Bundled (Maven 3)" />
-        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
-  </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="1.7" />
-    <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_0_M5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_M5.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
-    <option name="x" value="601" />
-    <option name="y" value="56" />
-    <option name="width" value="1015" />
-    <option name="height" value="796" />
-=======
     <option name="x" value="129" />
     <option name="y" value="55" />
     <option name="width" value="1273" />
     <option name="height" value="767" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -487,10 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -498,13 +327,6 @@
               <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-<<<<<<< HEAD
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -512,82 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-=======
-              <option name="myItemId" value="Test" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -598,13 +345,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Test" />
-=======
-              <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+              <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -622,7 +366,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -632,9 +375,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
-=======
-              <option name="myItemId" value="main" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -652,86 +392,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="test" />
-=======
               <option name="myItemId" value="main" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-<<<<<<< HEAD
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="test" />
-=======
-              <option name="myItemId" value="main" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ListNodeTest.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-=======
-              <option name="myItemId" value="util" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -760,7 +421,6 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-<<<<<<< HEAD
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -790,19 +450,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-=======
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day19" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyReadLineNumberTest09.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -836,223 +483,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="day19" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
       <pane id="Scope" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v7.4.0/bin/node" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/wangpan" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="options.lastSelected" value="project.propGUI" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.27208123" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.weather.test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.BufferedTest03">
-    <configuration default="false" name="FileReaderDemo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day18.FileReaderDemo11" />
-=======
-  <component name="RunManager" selected="Application.InputStreamDemo11">
-    <configuration default="false" name="ParamMethodDemo19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day17.ParamMethodDemo19" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="FileRreaderTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day18.FileRreaderTest12" />
-=======
-    <configuration default="false" name="PropertyDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day18.PropertyDemo01" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="IOTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-=======
-    <configuration default="false" name="BufferedReaderTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-<<<<<<< HEAD
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day18.IOTest13" />
-=======
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day19.BufferedReaderTest05" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="BufferedWriterDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-=======
-    <configuration default="false" name="MyReadLineNumberTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-<<<<<<< HEAD
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day19.BufferedWriterDemo01" />
-=======
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day19.MyReadLineNumberTest09" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="BufferedTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-=======
-    <configuration default="false" name="InputStreamDemo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.test.util.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-<<<<<<< HEAD
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day19.BufferedTest03" />
-=======
-      <option name="MAIN_CLASS_NAME" value="com.java.test.util.day19.InputStreamDemo11" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1100,15 +576,13 @@
       <Profilers>
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="WIDTH" value="0" />
-      <option name="HEIGHT" value="0" />
       <module />
       <method />
     </configuration>
@@ -1278,7 +752,6 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -1291,7 +764,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -1373,6 +846,14 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1390,7 +871,7 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
@@ -1436,12 +917,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1457,38 +932,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-<<<<<<< HEAD
-      <item index="0" class="java.lang.String" itemvalue="Application.FileReaderDemo11" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FileRreaderTest12" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IOTest13" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BufferedWriterDemo01" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BufferedTest03" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BufferedTest03" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BufferedWriterDemo01" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IOTest13" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FileRreaderTest12" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FileReaderDemo11" />
-=======
-      <item index="0" class="java.lang.String" itemvalue="Application.ParamMethodDemo19" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PropertyDemo01" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BufferedReaderTest05" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MyReadLineNumberTest09" />
-      <item index="4" class="java.lang.String" itemvalue="Application.InputStreamDemo11" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.InputStreamDemo11" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyReadLineNumberTest09" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BufferedReaderTest05" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PropertyDemo01" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ParamMethodDemo19" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1515,10 +958,6 @@
       <workItem from="1573174601714" duration="37598000" />
       <workItem from="1573961709484" duration="31048000" />
       <workItem from="1574349489597" duration="4195000" />
-<<<<<<< HEAD
-      <workItem from="1574424273972" duration="31398000" />
-    </task>
-=======
       <workItem from="1574728051049" duration="3259000" />
       <workItem from="1574733380672" duration="170000" />
       <workItem from="1574734284919" duration="10904000" />
@@ -1552,83 +991,34 @@
       <updated>1574744857567</updated>
     </task>
     <option name="localTasksCounter" value="5" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Test_test - 2019.06.13 at 20h 41m 20s.xml">
-      <configuration name="Test.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Test_test - 2019.06.13 at 20h 41m 48s.xml">
-      <configuration name="Test.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Test_test - 2019.06.13 at 20h 42m 32s.xml">
-      <configuration name="Test.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Test_test - 2019.06.13 at 20h 45m 06s.xml">
-      <configuration name="Test.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Test_test - 2019.06.14 at 10h 25m 46s.xml">
-      <configuration name="Test.test" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="169034000" />
-=======
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="186099000" />
+    <option name="totallyTimeSpent" value="169254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="56" width="1015" height="796" extended-state="0" />
+    <frame x="129" y="55" width="1273" height="767" extended-state="0" />
     <editor active="false" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30809858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31676137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25796506" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-=======
-    <option name="totallyTimeSpent" value="168442000" />
->>>>>>> 9b17d401a7ba373755195ca0c2b967df0992312d
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="129" y="55" width="1273" height="767" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30810812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47111112" sideWeight="0.29406986" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22962964" sideWeight="0.29406986" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29481483" sideWeight="0.4874086" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.4932773" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47111112" sideWeight="0.7059301" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22962964" sideWeight="0.7059301" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20389926" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3096591" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30962962" sideWeight="0.49715677" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1640,9 +1030,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -1651,17 +1038,6 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-<<<<<<< HEAD
-=======
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一次上传" />
-    <MESSAGE value="day19 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="day19 test" />
-  </component>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1700,11 +1076,7 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-<<<<<<< HEAD
-      <option name="time" value="46" />
-=======
       <option name="time" value="33" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1713,22 +1085,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day14/ListIteratorTest05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="34" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day14/LinkedListTest09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1820,7 +1176,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day15/GenericDemo12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1832,10 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="81" column="18" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="18" />
-<<<<<<< HEAD
-          <folding />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -1843,7 +1194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1851,7 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1880,10 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-<<<<<<< HEAD
-          <folding />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -1958,12 +1303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-<<<<<<< HEAD
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -1971,10 +1310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-<<<<<<< HEAD
-          <folding />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -1989,12 +1324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-<<<<<<< HEAD
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2002,19 +1331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-<<<<<<< HEAD
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ToArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="115" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#254#262#0" expanded="false" />
-=======
         </state>
       </provider>
     </entry>
@@ -2024,14 +1340,10 @@
           <caret line="18" column="34" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#461#481#0" expanded="false" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ToArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2039,15 +1351,10 @@
         </state>
       </provider>
     </entry>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day16/TreeMapTest08.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-<<<<<<< HEAD
-          <folding />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2055,12 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-158">
           <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-<<<<<<< HEAD
-          <folding>
-            <element signature="e#275#284#0" expanded="false" />
-          </folding>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2068,10 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="22" selection-end-column="65" />
-<<<<<<< HEAD
-          <folding />
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2079,20 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-<<<<<<< HEAD
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ArraysDemo16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2100,13 +1383,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-<<<<<<< HEAD
-          <folding />
-=======
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
         </state>
       </provider>
     </entry>
@@ -2120,242 +1399,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/PropertyDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetCode/tencent/FindMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetCode/tencent/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-=======
         <state relative-caret-position="180">
-          <caret line="12" column="103" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetCode/tencent/ReverseInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/DateDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day17/ArraysDemo16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/CalenderDemo04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="32" column="63" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding>
-            <element signature="e#441#461#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/MathDemo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-=======
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/io/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="118" column="15" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterDemo07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterIOExc08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="11" selection-start-line="10" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileWriterXuxie09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileReaderDemo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileReaderDemo11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/MyReadLineNumberTest09.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="42" column="4" selection-start-line="24" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+          <caret line="42" column="1" selection-start-line="24" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/FileRreaderTest12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedReaderTest05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
-          <caret line="52" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
+          <caret line="52" column="1" selection-start-line="21" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day18/IOTest13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="39" column="2" selection-start-line="9" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/InputStreamDemo11.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="139">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-=======
-        <state relative-caret-position="284">
-          <caret line="36" column="10" selection-start-line="15" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
->>>>>>> 9b17d401a7ba373755195ca0c2b967df0992312d
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/demo.txt">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="72" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="11115">
+          <caret line="741" column="61" selection-start-line="741" selection-start-column="27" selection-end-line="741" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedWriterDemo01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/CopyPictureDemo12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="56" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/test/util/day19/BufferedTest03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> 2e9856897618f36e2af433128d2a398cbad4e6ec
   </component>
   <component name="ideajad">
     <property name="annotate" value="false" />
