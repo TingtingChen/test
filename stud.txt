@@ -1,1 +1,3 @@
-zhangsan:7
+lisi:12,53,53	118
+zhangsan:10,24,34	68
+wangwu:20,10,2	32
